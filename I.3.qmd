@@ -1,0 +1,63 @@
+---
+title: "I.3"
+---
+
+*O seu cumprimento é encontrado em saicara e pratisaincara.*
+
+**TLDR:** O sutram refere-se ao cumprimento da acção de prakrti que é encontrada em duas partes saincara e pratisaincara da evolução do universo. A acção de prakrti sobre purusa durante saicara deixa-nos como vestígio a ordem física da realidade o que nos permitem inferir sobre a existência de purusa e o próprio prakrti, de forma análoga a acção de prakrti durante a fase pratisaincara também deixa os seus vestígios, a progressiva libertação da realidade da força prakrti conduz-nos a conseguir identificar tanto purusa como prakrti.
+
+## Resumo + Comentários
+
+-   "Se Deus existe, então mostra-me." já os ateus gregos diziam aos teístas. A variante desta afirmação abordada nos comentários do autor a sutram é *Se purusa e prakrti existem, então mostra-me*.
+
+-   A demonstração que o autor sugere-se a apresentar em I.3, não é na realidade uma demonstração; demonstrações só existem na matemática. O que ele realmente faz no livro é aquilo a que chamamos em inglês **inference to the best explanation**.
+
+-   Eis alguns **exemplos** de "inference to the best explanation" apresentados pelo autor:
+
+    -   existência de electrões deixa vestígios, esses vestígios levam-nos a *inferir* que existem electrões;
+
+    -   as pegadas numa floresta são também vestígios que nos levam a *inferir* que alguma raposa ali passou recentemente;
+
+    -   o LHC deixa dados, que nos levam a *inferir* que bosão Higgs existe.
+
+-   Demonstração da existência de purusa requer o seguinte lemma:
+
+    ::: callout-note
+    ## Lemma
+
+    A existência de inteligência explica/justifica a existência da capacidade de resposta da matéria a estímulos.
+    :::
+
+    **Demonstração do Lemma**: A resposta mecânica (estimulo-resposta) da matéria é descrita em grande detalhe por teoria matemática, ou seja, há uma ordem que descreve tal comportamento estímulo-resposta. Como a ordem apenas existe porque existe previamente uma inteligência, concluímos que a resposta da matéria a estímulos requer a existência de uma inteligência.
+
+-   **Exemplo de estimulo-resposta:** As experiências de Bose com tecidos e metais revelaram que a resposta ao mesmo estímulo era muito semelhante (os detalhes da experiência não os sei...)
+
+-   O autor não define inteligência (o que diria ele?), simplesmente dá a entender que tudo aquilo que seja capaz de reagir mecânicamente a um estimulo é dotado daquilo a que chama de inteligência, ou seja, a propriedade de inteligência é necessária à capacidade de reagir mecânicamente (ou não mecânicamente) a estímulos externos.
+
+-   Regressemos agora à ideia central nestes comentários:
+
+    ::: callout-note
+    ## Proposição
+
+    Purusa e prakrti existem e são indissociáveis.
+    :::
+
+    **Demonstração:** Tudo no universo (micro e macro) exibe comportamentos estimulo-resposta que são descritos por leis; incluindo as partes do universo que não entendemos (exemplo: caos). Segundo o nosso lemma, tal pressupõe que existe inteligência. Como a inteligência pressupõe a existência (uma suposição do autor sem justificação) de consciência, concluímos que consciência universal (aka purusa) existe.
+
+    A segunda coisa que o autor pretende demonstrar é a existência de prakrti, mas fá-lo, na minha opinião, de forma confusa, pois dá uma dupla definição de prakrti:
+
+    -   prakrti = força que molda a consciência universal
+
+    -   prakrti = resultado da acção da força universal (consciência moldada)
+
+    Uma analogia ajuda a entender estas duas definições. Prakrti é como a força das mãos do oleiro e o vaso é o resultado final da acção dessa força sobre o barro (consciência). Não faz sentido usar prakrti para nos referirmos à força e ao vaso ao mesmo tempo, mas é precisamente isto que o autor nos conduz nos seus comentários a este sutram. Usando a dupla definição acima eis como o autor justifica a existência de prakrti: a realidade física é como o "vaso" e o "vaso" é prakrti. Conclusão, prakrti existe. Por outras palavras, *a ordem que observamos na realidade física, resulta da acção de prakrti durante a fase de saincara.*
+
+    O autor procura também demonstrar que purusa e prakrti são inseparáveis. Eis a sua argumentação: Purusa é aquilo a que os físicos chamam de energia/matéria e os padrões comportamentais da energia/matéria têm uma forma ordenada sujeita a forças, essas forças são prakrti.
+
+-   O autor termina nas ultima duas paginas por descrever a fase evolutiva pratisaincara: a evolução progressiva desde seres vivos unicelulares até ao ser humano ocorre ao mesmo tempo que existe uma libertação progressiva de prakrti e uma revelação progressiva da consciência universal. Mesmo no estádio de ser humano, há diferentes níveis evolutivos de seres humanos, no sentido em que há diferentes níveis de revelação desta consciência universal. De forma grosseira temos:
+
+    ::: callout-tip
+    ## Ordem crescente de libertação de Prakrti
+
+    bactérias **\<** animais/plantas **\<** macacos **\<** ser humano lvl 1 **\<** ser humano lvl 2 **\<** $\dots$ **\<** Buda
+    :::
