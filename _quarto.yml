@@ -3,16 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "filosofia de cafe"
+  title: "filosofia de café"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - I.1.qmd
+      - I.2.qmd
+      - I.3.qmd
+      - I.4.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
