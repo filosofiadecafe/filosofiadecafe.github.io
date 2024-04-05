@@ -12,10 +12,13 @@ website:
       - I.2.qmd
       - I.3.qmd
       - I.4.qmd
+      - I.5.qmd
+      - I.6.qmd
 
 format:
   html:
-    theme: minty
+    theme: 
+      light: minty
     css: styles.css
     toc: true
 

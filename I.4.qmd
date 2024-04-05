@@ -14,15 +14,15 @@ title: "I.4"
 
 -   O autor segue então para a enumeração de várias suposições.
 
--   **Suposição 1:** Um sistema (físico ou conceptual) apresenta sempre um núcleo.
+    -   **Suposição 1:** Um sistema (físico ou conceptual) apresenta sempre um núcleo.
 
--   **Suposição 2:** o universo tem origem inteligente.
+    -   **Suposição 2:** o universo tem origem inteligente.
 
-    Isto tem um implicação muito importante, pois se é inteligente, é que esperar que exista uma estrutura sob todo o universo.
+        Isto tem um implicação muito importante, pois se é inteligente, é que esperar que exista uma estrutura sob todo o universo.
 
--   **Suposição 3:** O universo - oceano com ondas - evolui ao longo do tempo devido à força Chakti (prakrti). O estado dessas ondas reflecte as características da força que as originou, essas características são três, as *três gunas*. Cada onda reflecte assim uma certa combinação de três gunas. Portanto, cada onda é distinguível das demais e dizemos por isso que existe um principio de dualidade, entenda-se, um principio de que os objectos da consciências (ondas) são distinguíveis. O autor refere-se que há uma "*Lei de Dualidade*" a actuar sobre o universo (criação), o que se entende por isto é que existe um força (chakti/prakrti) que consegue formar ondas (conceptuais ou físicas) que nós conseguimos distinguir.
+    -   **Suposição 3:** O universo - oceano com ondas - evolui ao longo do tempo devido à força Shakti (prakrti). O estado dessas ondas reflecte as características da força que as originou, essas características são três, as *três gunas*. Cada onda reflecte assim uma certa combinação de três gunas. Portanto, cada onda é distinguível das demais e dizemos por isso que existe um principio de dualidade, entenda-se, um principio de que os objectos da consciências (ondas) são distinguíveis. O autor refere-se que há uma "*Lei de Dualidade*" a actuar sobre o universo (criação), o que se entende por isto é que existe um força (shakti/prakrti) que consegue formar ondas (conceptuais ou físicas) que nós conseguimos distinguir.
 
--   **Suposição 4:** A nossa mente apenas consegue entender as partes do universo (conceptual ou físico) que têm estrutura, i.e., que resultam da actuação da Lei de Dualidade. Mais ainda, também apenas entendemos as partes que têm um centro.
+    -   **Suposição 4:** A nossa mente apenas consegue entender as partes do universo (conceptual ou físico) que têm estrutura, i.e., que resultam da actuação da Lei de Dualidade. Mais ainda, também apenas entendemos as partes que têm um centro.
 
 -   **Definição:** O que é esta ideia de *centro*?
 
@@ -53,7 +53,7 @@ title: "I.4"
     ::: callout-note
     ## Proposição
 
-    A evolução temporal do sistema cosmológico é de tal forma que satisfaz uma alternância (ciclica) entre saincara e pratisaincara.
+    A evolução temporal do sistema cosmológico é de tal forma que satisfaz uma alternância (cíclica) entre saincara e pratisaincara.
     :::
 
 -   **Definição:** O ponto fixo da dinâmica do sistema é o mar de consciência testemunhal a que o autor chama também paramashiva, purusottama, consciência nuclear.
