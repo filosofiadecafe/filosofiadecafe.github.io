@@ -14,6 +14,8 @@ website:
       - I.4.qmd
       - I.5.qmd
       - I.6.qmd
+      - I.7.qmd
+      - I.8.qmd
 
 format:
   html:
