@@ -1,0 +1,139 @@
+---
+title: "I.7"
+---
+
+*Purusa é a testemunha e Shakti é o acto de ver.*
+
+**TLDR:** O autor nos comentários a este sutram explica em grande detalhe, usando terminologia do ioga, o processo de "ver" e assim clarificar a forma como *Shakti* molda *purusa*. Dá cinco exemplos.
+
+-   **Warning!** Muitas vezes usa-se a palavra associada a um processo para nos referirmos ao resultado desse processo.
+
+-   Substanciação?
+
+-   O autor começa por recordar-nos que a consciência (com c-minúsculo, devia ser maiúscula?) não realiza nenhuma acção, é sim apenas testemunha da actividade *prakrti.* Este afirmação é confusa pois tal como vimos em I.2, Shiva (entenda-se consciência) é dotada da capacidade de se autocolocar em movimento, isto é uma acção que a consciência consegue realizar...
+
+-   No sutram temos \[...e Shakti é o acto de ver.\], no primeiro paragrafo dos comentários do autor temos uma explicação do que é que isto significa. O autor diz que se deve reinterpretar a palavra "ver" do sutram não só como o acto de ver, mas também como todo o movimento de pensamento e matéria. Elaborando, pelo meu entender a palavra *darshanam* (que o autor traduz como "ver" no sutram em português) do sâncrito não tem correspondente no português, por isso temos de usar um conjunto de palavras para transmitir a ideia, o conjunto e definição é o seguinte:
+
+    -   *darshanam* = acto de ver e o acto mental ou físico, que advêm do acto de ver.
+
+-   A imagem de *Shakti* a dançar sobre o corpo imóvel de *Shiva*, pretende ilustrar a estrutura radial da existência: *Shiva*, o núcleo; *Shakti* toda a manifestação (recorda que *Shakti* é aquilo a que temos chamado de *prakrti* nos sutrams anteriores e *prakrti* é uma força e não a manifestação resultante da força, entendo que o autor está a usar a palavra *Shakti* para ambos tal como alertei acima, ver warning).
+
+-   O acto de percepção é o acto de identificar sistemas e subsistemas, i.e., é o acto de distinguir. Segundo o autor é através deste descendimento que conhecemos a verdadeira natureza (leis) da existência; o que é natural, pois recorda que leis são relações entre coisas (sistemas), mas para as descobrir é necessário que tenha primeiro a percepção dessas coisas.
+
+    ## Exemplos de *Darshanam*
+
+    ### Exemplo 1: Percepção de uma árvore (este exemplo serve de prototipo para os seguintes)
+
+-   A palavra *darshanam* presente no sutram em sâncrito consiste no mecanismo do acto de "ver" e as suas consequências (ver figura):
+
+    1.  O sinal é recebido pelo olhos
+    2.  Transmitido pelos nervos até ao cérebro
+    3.  Depois o nosso *citta* tem que receber a imagem do cérebro e tomar a sua forma. Neste ponto, do mecanismo, ainda não vemos a árvore!
+
+![Passos envolvidos no acto de percepção pelos sentidos, neste caso a visão. Assim que vejo a árvore (final do passo 4) outras acções podem suceder pela acção da onda "Eu faço".](figs/brains.png){#brains width="594"}
+
+-   A partir de 3, passamos para o modo \["Eu faço" alguma coisa com a onda que representa a árvore\], em particular a acção que vou fazer é \[Eu vejo/percepciono a árvore\] (ver 4). O passo 4 é aquilo a que chamamos de *acto de pensar*. Mas atenção à palavra Eu em \[Eu vejo/percepciono a árvore\], recorda que tal acção requer que a nossa consciência seja dotada do conceito de Eu, para isso o nosso *jiivatma* tem de ser dotado da onda "Eu sou", ver 5.
+
+-   A sequência 1-4 pode não funcionar! Por exemplo:
+
+    -   se estivermos a dormir ou inconscientes, o *citta* não pode tomar a forma do que observamos ou ouvimos, e logo não percepcionamos a árvore.
+
+    -   se estivermos focados numa coisa e uma segunda coisa acontece, mesmo de olhos abertos, *aham* ("Eu faço") actua na primeira e não na segunda. Na primeira o passo 4 é realiza e vemos a árvore, no segundo não; só por hipnose é que a recuperamos.
+
+-   A sequência de eventos 1-4 é (em meu entender) aquilo que significa a palavra *darshanam* no sutram em sâncrito. E assim conseguimos entender o sutram:
+
+    -   \[... *Shakti* é o acto de *darshanam* (ver) \] = *Shakti* é a sequência de 1-4
+
+    ::: callout-note
+    ## Commentary
+
+    No sutram I.1 Shakti é apresentado como uma força que molda (aprisiona) a consciência enquanto que aqui em I.7, é-nos dito que se trata do acto de \[ver + as suas consequências\]. O autor não nos diz, mas a meu ver temos o seguinte paralelo:
+
+    | Shakti em I.1                                                             | Shakti em I.7                                                                                                                        |
+    |---------------------------------------------------|-----------------------------------------------------|
+    | Força que molda consciência. Não nos é dito a sua origem, nem como actua. | Sequência 1-4 e subsquentes acções resultam em ondas que são guardadas na nossa memória, passando a fazer parte do nosso *jiivatma*. |
+
+    O mecanismo que no detalhe é composto por 1-4 e fenomenologicamente descrito por uma força a gerar essas ondas.
+    :::
+
+-   Procurando reconhecer/percepcionar a sequência de eventos \[ 5 \| 1-4 \] no nosso dia a dia, leva-nos a conhecer as suas partes e descobrir algo ainda mais profundo, que sob esta sequência temos a consciência 0. (*atmanatma viveka* = distinguir atman do não *atman*; recorda de I.1 que *atman* é o eu puro que vemos na figura como 0).
+
+-   **Warning!** Durante o processo de reconhecer/percepcionar a sequência de eventos \[ 5 \| 1-4 \] devemos ter em conta que em geral confundimos *drk* (a entidade testemunha, ver (0)), com *darshanam* (o acto de visão \[ 5 \| 1-4 \]) e logo confundimos consciência com pensamento e mente. Para ilustrar a diferença o autor socorre-se da seguinte analogia:
+
+    ![](figs/birds.png){width="673"}
+
+    Um pássaro observa outro a comer um fruto. O observador representa a consciência suprema (pura) enquanto que, o que come representa *jiivatma*, a parte do oceano de consciência que nós somos, e que se está a identificar com o objecto da atenção. O que é que significa identificar? Quando digo, \[eu identifico-me com \_\_\_\_\_\_ \], o que realmente quero dizer é que \[eu sou \_\_\_\_\_\_ \] ou \[ \_\_\_\_\_\_ faz parte de mim\] ou \[ \_\_\_\_\_\_ é uma característica minha\], ora no caso do pássaro, no seu *jiivatma* encontramos o fruto sob a forma de um pensamento (ver 3), ou seja, o fruto pertence ao conjunto de ondas que definem o pássaro.
+
+    A ideia desta imagem é ilustrar que nós somos como o pássaro da direita e achamos que:
+
+    -   somos aquilo em que nos focamos (representado pela fruta), i.e., que somos o que está na nossa mente e que somos os nossos pensamentos.
+
+    -   a nossa mente/pensamento é consciente.
+
+-   Através de *atmanatma viveka*, tal como descrito acima, conseguimos discernir as peças em \[ 0 \| 5 \| 1-4 \] e logo distinguir que consciência é diferente de mente/pensamento e que não somos fundamentalmente os nossos pensamentos.
+
+-   *Jiivattma* = pedaço da consciência suprema (consciência individual), presa for *prakrti*, que nos representa. As nossas ondinhas, que mudam ao longo do tempo consoante aquilo com que nos identificamos.
+
+![](figs/conceitos.png){width="762"}
+
+-   Quanto mais identificações estiverem no nosso *jiivatma*, mais distinto será da Consciência inalterado (suprema), donde nos sentimos mais únicos, i.e., distintos do que nos rodeia (e o que nos rodeia são os outros *jiivatmas*). Do sentimento de separação resulta o sofrimento (Ver Yoga Sutras de Patanjali).
+
+    ::: callout-note
+    ## Commentary
+
+    Quanto menos modificações da mente tivermos, mais semelhante será esta à Consciência Suprema (*Drk*). O objectivo das práticas de ioga é precisamente facilitar a disentificação - reduzindo o número de ondas do nosso *jiivatma*, este fica mais semelhante a *Drk*. É interessante notar que tal é semelhante à dissolução de um grão de açúcar em água, estamos à procurar com as práticas de ioga dissolver-nos na Consciência Suprema, para a podermos experienciar. Experiência-la é a única coisa que podemos fazer, está além da nossa compreensão, pois compreender significaria introduzir ondas no *jiivatma*.
+    :::
+
+-   Terminologia:
+
+    -   *paramarma* = consciência suprema (inalterada e não tocada por *prakrti*), é a meu ver sinónimo de *drk*
+
+    -   *jiivatma* = *paramarna* amarrado por prakrti ("*paramarna* dentro da mente micro-cósmica" - O que é que isto quer dizer?)
+
+-   todas as nossas percepções, emoções, pensamentos - o que ocorre na nossa mente - são ondas no campo de consciência. O nosso problema é que confundimos a consciência com a nossa mente. *Atmanatma viveka* é o acto de distinguir ambas.
+
+-   Rambling nonsense: quando faço alguma coisa estou a identificar-me com o meu senso de autoria, i.e., estou a fazer *pick* de frequências e a construir um especto largo que se reflete num eu (fc) mais individual (delta-like). Se estiver na praia sem fazer nada, o especto é mais limpo e próximo da fc cte (consciência sem modificações). Daí a importância de atribuir qq acção ao Supremo e não a nós, o eu individual. Somos o braço do SUpremo. TO BE CONTINUED
+
+### Exemplo 2: Recordação (percepção) de uma memória
+
+-   Não está descrito nos comentários do autor, mas lendo entre linhas, fico com a ideia de que: Assim que o *citta* toma a forma de pensamento da árvore, este fica armazenado (memória) e em estado adormecido, até que a nossa onda "Eu faço" (*atman*) o acorda e nos trás a árvore para percepção, aí vemos a memória da árvore. Podemos assim criar um esquema semelhante ao da figura acima
+
+    ![Passos evolvidos no acto de recordar algo da nossa memória (neste caso uma árvore), ou seja, de percepcionar algo na nossa memória. Apenas os passos 4 e 5 estão presentes. Ao invés da árvore a memoria pode ser também uma emoção ou uma ideia ou sequência de ideias. Vemos aqui outra manifestação do acto (4) de pensar.](figs/recordar.png){width="559"}
+
+### Exemplo 3: Percepção de uma rocha
+
+-   A percepção de uma rocha é análoga ao da árvore, aqui o autor reforça uma ideia já apresentada acima: se estivermos focados numa rocha e uma segunda coisa acontece, por exemplo a areia onde assenta a rocha ou as gaivotas etc; *aham* ("Eu faço") actua na primeira e não na segunda. Donde o passo 4 é realiza sobre o primeiro, e vemos a rocha e não sobre o segundo, e não percepcionamos nem a areia, nem as gaivotas.
+
+-   Da percepção da rocha várias acções podem suceder, i.e., a onda "Eu faço" (*aham*) actua sobre a onda desta rocha percepcionada e cria ondas de acção, por exemplo atirar a rocha ao mar ou guardá-la ou dá-la a alguém ou etc.
+
+-   Desta forma as ondas de percepção da rocha e da acções subsequentes (modificações da consciência) dominam o nosso *jiivatma*, ou seja, dominam a nossa consciência.
+
+-   Esquematicamente temos o seguinte:
+
+    ![](figs/identifications.png)
+
+-   Inicialmente a nossa consciência apenas apresenta as ondas "Eu sou" (*mahat*), "Eu faço" (*aham*) e *citta* que estão sempre presentes por defeito (ver fundo da figura acima). Dizemos por isso que a nossa consciência está identificada com estas ondas, nomeadamente as de *citta*. Identificada significa que estas ondas pertencem à nossa consciência.
+
+-   Os passos 3 e 4 descrevem a conversão do *citta* numa percepção da rocha realizada pela onda *aham* (ver seta cinza e parte cima da figura acima); de seguida *aham* converte o restante *citta* em acções que faço com a rocha, três exemplos estão ilustrados (setas a azul na figura acima), que assim dominam toda a nossa consciência. Dizemos assim que a nossa consciência está identificada com estas ondas, por outras palavras, dizemos que a nossa consciência está identificada com *aham*. (É importante notar que nesta ultima frase estou a usar a palavra *aham* para me referir aos resultados de *aham* e não ao *aham* em si, que é a onda que representa o conceito de "Eu faço")
+
+### Exemplo 4: Percepção de autoria
+
+-   Quando estamos ocupados a trabalhar ou a fazer qualquer coisa, a nossa consciência é modificada pela introdução de objectos (ondas), eis alguns exemplos:
+
+    ![](figs/ego.png)
+
+-   As emoções que resultam acção designam-se por \[sentimentos de autoria\]. Estas dominam a nossa consciência quando actuamos.
+
+-   Se quando actuamos das duas uma:
+
+    -   Caso 1: temos presentes uma clara distinção entre *drk* e *darshanam*
+
+    -   Caso 2: apenas reconhecemos *darshanam* (*drk* é difícil de identificar)
+
+-   No segundo caso, significa que as nossas emoções são fruto das nossas acções, se o resultado da minha acção for aquilo que espero, eu sinto-me bem, caso contrário, sinto-me mal.
+
+-   Nem é preciso actuarmos para que daí resultem emoções, basta ver os outros actuar, por exemplo no cinema, ao vermos as personagens identificamo-nos com elas e assim sentimos como elas sentem.
+
+### Exemplo 5: Percepção do oceano
+
+-   Aqui o autor dá o exemplo de observar o por do sol numa praia. O mecanismo de percepção é o mesmo da árvore e da rocha, mas aqui o autor quer dar ênfase ao facto de que, se não actuarmos, simplesmente observarmos, grande parte do nosso *citta* não se transforma em pensamentos de acção, donde a nossa consciência não se identifica com *aham* mas sim com *mahat* ( o que é confuso pois julguei que o ponto partida fosse a consciência identificada com citta?)

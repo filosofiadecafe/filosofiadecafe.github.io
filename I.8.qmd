@@ -1,0 +1,44 @@
+---
+title: "I.8"
+---
+
+*A expressão atribucional desdobra-se devido ao domínio dos gunas.*
+
+**TLDR:** Nos comentários a este sutram, Devashish descreve em mais detalhe a moldagem de purusa no *citta* cósmico devido à acção de *prakrti* onde a componente *tamoguna* domina.
+
+## Comentários + Resumo
+
+-   Nos comentários a este sutram o autor começa por recordar o que é *prakrti*: uma força caracterizada por três componentes, que molda *purusa* (barro). A forma em que *purusa* é moldada depende da combinação de intensidades das três componentes.
+
+-   De seguida é-nos recordado os primeiros passos da criação (época de *saincara*) que já vimos em I.5 e I.6; estes consistem em:
+
+    1.  *Prakrti* onde *sattvaguna* domina molda uma onda que descreve o conceito de "Eu sou"/ sentido de existência.
+    2.  A componente dominante passa agora a ser *rajoguna*, *prakrti* molda agora uma segunda onda, que descreve o conceito de "Eu faço"/ autoria
+    3.  Uma vez mais *prakrti* muda a intensidade das componentes e agora *tamoguna* domina, "ondas bebés" são criadas ao longo da consciência universal (*purusa*), prontas a maturarem-se em objectos da consciência.
+    4.  *Purusa* equipado com estas três ondas está pronta a ser moldada nos mais variados objectos da consciência, uma vez mais, claro, pela acção de *prakrti*.
+
+-   A meu ver de 1, 2 e 3 resulta as ondas em purusa que se destinam aos seres vivos que eventualmente serão criados; em 4 é criado o *citta*, parte desse *citta* pertence e esses futuros seres vivos, e será moldado em pensamentos; outra parte, a que chamamos *citta* cósmico está disponível para ser moldado por *prakrti* nas mais variada realidade física.
+
+![Condições iniciais das trajectórias da figura de I.6.](figs/citta_cosmico.png){width="519"}
+
+-   A figura acima procura representar as condições iniciais (que em muito se assemelham ao nucleo) das múltiplas trajectórias que vemos na figura de I.6.
+
+-   As três componentes são caracterizadas por:
+
+    -   *Sattvaguna* - força subtil, atribui as propriedades de leveza, expansão, subtileza, felicidade e paz. Direcciona-nos para a consciência.
+
+    -   *Tamoguna* - oposto de *sattvaguna*, atribui as propriedades estática, peso, letargia, ignorância e contracção.
+
+    -   *Rajoguna* - atribui as propriedades de mutabilidade, inquietação e dinamismo. Permite mutação entre *sattvaguna* e *tamoguna*.
+
+-   Vejamos em mais detalhe o passo 3:
+
+    -   *Prakrti* vai moldar purusa em citta incorporando (especificando) os factores fundamentais: etéreo, aéreo, luminoso, líquido e sólido.
+
+    -   Eis a sequência em que esta incorporação é feita:
+
+![](figs/tamoguna.png)
+
+-   A propriedade etérea confere-lhe a propriedade de espaço-tempo.
+
+-   Pelo meu entender da ultima parte dos comentários do autor entendo que a soma das propriedades é sempre a mesma, $100$ por cento.

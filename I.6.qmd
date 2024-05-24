@@ -46,7 +46,7 @@ title: "I.6"
 
 -   Este sutram resume-se na seguinte figura, cada ponto é um subsistema:
 
-![](figs/criacao.png)
+![As condições iniciais destas donde todas estas trajectórias partem estão descritas em na figura de I.8.](figs/criacao.png)
 
 -   *Saincara* e *prantisaicara* estão ambas presentes ao longo do tempo, alguns subsistemas estão na época de *saincara* outros em *prantisaicara*.
 
