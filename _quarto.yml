@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - sutras7e8.pdf
 
 website:
   title: "filosofia de café"

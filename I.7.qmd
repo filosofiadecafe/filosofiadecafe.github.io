@@ -4,11 +4,11 @@ title: "I.7"
 
 *Purusa é a testemunha e Shakti é o acto de ver.*
 
-**TLDR:** O autor nos comentários a este sutram explica em grande detalhe, usando terminologia do ioga, o processo de "ver" e assim clarificar a forma como *Shakti* molda *purusa*. Dá cinco exemplos.
+**TLDR:** O autor nos comentários a este sutram explica em grande detalhe, usando terminologia do ioga, o processo de "ver" e assim clarificar a forma como *Shakti* molda *purusa*. Dá cinco exemplos. Para complementar estas notas abaixo estão também estas [O universo Consciente 1.7 e 1.8](docs/sutras7e8.pdf).
 
 -   **Warning!** Muitas vezes usa-se a palavra associada a um processo para nos referirmos ao resultado desse processo.
 
--   Substanciação?
+-   Substanciação = dar forma/substância/suporte a qualquer coisa.
 
 -   O autor começa por recordar-nos que a consciência (com c-minúsculo, devia ser maiúscula?) não realiza nenhuma acção, é sim apenas testemunha da actividade *prakrti.* Este afirmação é confusa pois tal como vimos em I.2, Shiva (entenda-se consciência) é dotada da capacidade de se autocolocar em movimento, isto é uma acção que a consciência consegue realizar...
 
@@ -50,7 +50,7 @@ title: "I.7"
     No sutram I.1 Shakti é apresentado como uma força que molda (aprisiona) a consciência enquanto que aqui em I.7, é-nos dito que se trata do acto de \[ver + as suas consequências\]. O autor não nos diz, mas a meu ver temos o seguinte paralelo:
 
     | Shakti em I.1                                                             | Shakti em I.7                                                                                                                        |
-    |-----------------------------------|-------------------------------------|
+    |---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
     | Força que molda consciência. Não nos é dito a sua origem, nem como actua. | Sequência 1-4 e subsquentes acções resultam em ondas que são guardadas na nossa memória, passando a fazer parte do nosso *jiivatma*. |
 
     O mecanismo que no detalhe é composto por 1-4 e fenomenologicamente descrito por uma força a gerar essas ondas.
